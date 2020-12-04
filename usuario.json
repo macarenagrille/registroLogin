@@ -1,0 +1,12 @@
+[
+    {
+        "nombre":"Macarena",
+        "mail":"macugrille@gmail.com",
+        "password":"1234"
+    },
+    {
+        "nombre":"Azul",
+        "mail":"azul@gmail.com",
+        "password":"000"
+    } 
+]
